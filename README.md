@@ -25,16 +25,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Guga's GitHub stats](https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errkedukke&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukhadzeg/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukhadzeg/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
 
 ---
