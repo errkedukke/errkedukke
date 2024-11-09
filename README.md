@@ -33,6 +33,31 @@
 ![Guga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=radical&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=merko&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=default&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=radical&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=dracula&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=tokyonight&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=highcontrast&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true" />
+</p>
+
+
 ---
 
 ## 📫 Connect with Me
