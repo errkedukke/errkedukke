@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guga Rukhadze!
+# 👋 Hi, I'm Guga!
 
 **.NET Developer | Full-Stack Web Developer | Problem Solver**
 
@@ -7,17 +7,33 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Bachelor’s in Computer Science and Information Technology from Georgian Technical University
+
 - 🌍 Based in Tbilisi, Georgia
 - 💼 Experienced in building full-stack solutions, designing robust APIs, and developing complex back-end systems using .NET Core, Angular, and MS-SQL
-- 👨‍💻 Currently a .NET Developer at EPAM Georgia, focusing on file and image merging solutions and game store management APIs
+- 👨‍💻 Currently a .NET Developer at EPAM Georgia
 
 ---
 
 ## 🛠️ Technologies & Tools
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp) ![.NET Core](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
-![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-05122A?style=flat&logo=microsoftsqlserver) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-05122A?style=flat&logo=dotnet)  
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure) ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></td>
+    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></td>
+    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></td>
+    <td><img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"></td>
+    <td><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"></td>
+    <td><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></td>
+    <td><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+  </tr>
+</table>
+
+---
 
 ---
 
@@ -48,4 +64,4 @@
 
 ---
 
-*Thanks for stopping by! Feel free to explore my projects and connect with me!*
+_Thanks for stopping by! Feel free to explore my projects and connect with me!_
