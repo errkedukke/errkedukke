@@ -36,6 +36,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white)
 
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
+![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-05122A?style=flat&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-05122A?style=flat&logo=dotnet)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)  
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat&logo=github-actions)
+
 ---
 
 ## 🔥 Current Project
