@@ -30,6 +30,9 @@
 ![Guga's GitHub stats](https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errkedukke&layout=compact&theme=radical)
 
+![Guga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&theme=radical&bg_color=05122A&title_color=ffffff&icon_color=ffffff&hide=prs&count_private=true)
+
+
 ---
 
 ## 📫 Connect with Me
