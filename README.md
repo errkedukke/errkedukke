@@ -16,13 +16,25 @@
 
 ## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET_Core-333333?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=white)  
-![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-333333?style=flat&logo=dotnet&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visualstudio&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp) ![.NET Core](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
+![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-05122A?style=flat&logo=microsoftsqlserver) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-05122A?style=flat&logo=dotnet)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure) ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
+
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-333333?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=white)  
+![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-333333?style=flat&logo=dotnet&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visualstudio&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
