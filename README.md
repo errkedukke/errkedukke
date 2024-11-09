@@ -27,12 +27,6 @@
 - **.NET Developer, EPAM Georgia** (Oct 2023 – Present)  
   Developed full-stack solutions for merging files and images into PDFs using Angular and .NET Core, designed resilient web APIs for managing game store models, and integrated Azure Communication Services for notifications.
 
-- **.NET Developer, Alta Software** (Jun 2021 – Mar 2023)  
-  Created a migrator application for large-scale file transfer, developed a reporting microservice for loan application tracking, and contributed performance improvements to a custom ORM for financial applications.
-
-- **Technical Supporter, MyGPS** (Jan 2019 – Jun 2020)  
-  Implemented health checks and debugging procedures for APIs, upgraded applications to .NET Core 2.2, and provided support for application stability.
-
 ---
 
 ## 📈 GitHub Stats
