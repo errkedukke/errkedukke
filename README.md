@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Guga!
-
 **.NET Developer | Full-Stack Web Developer | Problem Solver**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=errkedukke&color=blue)
