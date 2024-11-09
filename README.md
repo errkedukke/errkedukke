@@ -1,47 +1,53 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi, I'm Guga Rukhadze!
 
-**Software Developer | Tech Enthusiast | Lifelong Learner**
+**.NET Developer | Full-Stack Web Developer | Problem Solver**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=errkedukke&color=blue)
 
 ---
 
 ## 🚀 About Me
-- 🎓 [Add a few lines about your education or professional background.]
-- 🌍 Based in [Your Location].
-- 💼 [Add a few lines about your professional experience or goals. What kind of projects or collaborations are you interested in?]
+
+- 🎓 Bachelor’s in Computer Science and Information Technology from Georgian Technical University
+- 🌍 Based in Tbilisi, Georgia
+- 💼 Experienced in building full-stack solutions, designing robust APIs, and developing complex back-end systems using .NET Core, Angular, and MS-SQL
+- 👨‍💻 Currently a .NET Developer at EPAM Georgia, focusing on file and image merging solutions and game store management APIs
 
 ---
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp) ![Rage MP](https://img.shields.io/badge/-RageMP-05122A?style=flat&logo=grandtheftauto)  
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
+
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp) ![.NET Core](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
+![MS SQL](https://img.shields.io/badge/-MS_SQL_Server-05122A?style=flat&logo=microsoftsqlserver) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-05122A?style=flat&logo=dotnet)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure) ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 
 ---
 
-## 🔥 My Projects
-- **[Project Name](https://github.com/yourusername/projectname)**  
-  *Short description about the project and what technology you used.*
+## 🔥 Professional Experience
 
-- **[Another Project](https://github.com/yourusername/anotherproject)**  
-  *Another brief description. Mention the skills and challenges.*
+- **.NET Developer, EPAM Georgia** (Oct 2023 – Present)  
+  Developed full-stack solutions for merging files and images into PDFs using Angular and .NET Core, designed resilient web APIs for managing game store models, and integrated Azure Communication Services for notifications.
+
+- **.NET Developer, Alta Software** (Jun 2021 – Mar 2023)  
+  Created a migrator application for large-scale file transfer, developed a reporting microservice for loan application tracking, and contributed performance improvements to a custom ORM for financial applications.
+
+- **Technical Supporter, MyGPS** (Jan 2019 – Jun 2020)  
+  Implemented health checks and debugging procedures for APIs, upgraded applications to .NET Core 2.2, and provided support for application stability.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=stars&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Guga's GitHub stats](https://github-readme-stats.vercel.app/api?username=errkedukke&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errkedukke&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YourUsername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=wordpress&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rukhadze)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my repos and connect with me!*
+_Thanks for stopping by! Feel free to explore my projects and connect with me!_
