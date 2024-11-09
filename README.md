@@ -24,7 +24,7 @@
 
 ## 🔥 Current Project
 
-- **[Project Name](https://github.com/errkedukke/ggamestore)**  
+- **[ggamestore](https://github.com/errkedukke/ggamestore)**  
   _An overarchitected ASP.NET Core application designed with SOLID principles and testability in mind, showcasing advanced concepts like CQRS, the Mediator Pattern, and Clean Architecture. While not strictly necessary, this structure was chosen to demonstrate best practices in scalable, maintainable application design._
 
 ---
@@ -38,9 +38,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rukhadze)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukhadzeg/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
 
 ---
-
-_Thanks for stopping by! Feel free to explore my projects and connect with me!_
