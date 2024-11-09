@@ -21,7 +21,7 @@
 ## 🔥 Current Project
 
 - **[ggamestore](https://github.com/errkedukke/ggamestore)**  
-  _An overarchitected ASP.NET Core application designed with SOLID principles and testability in mind, showcasing advanced concepts like CQRS, the Mediator Pattern, and Clean Architecture. While not strictly necessary, this structure was chosen to demonstrate best practices in scalable, maintainable application design._
+  _An overarchitected ASP.NET Core application using SOLID principles, for showcasing CQRS Pattern with the Mediator, and Clean Architecture. ._
 
 ---
 
