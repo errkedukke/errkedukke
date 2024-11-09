@@ -22,10 +22,10 @@
 
 ---
 
-## 🔥 Professional Experience
+## 🔥 Current Project
 
-- **.NET Developer, EPAM Georgia** (Oct 2023 – Present)  
-  Developed full-stack solutions for merging files and images into PDFs using Angular and .NET Core, designed resilient web APIs for managing game store models, and integrated Azure Communication Services for notifications.
+- **[Project Name](https://github.com/yourusername/projectname)**  
+  _An overarchitected ASP.NET Core application designed with SOLID principles and testability in mind, showcasing advanced concepts like CQRS, the Mediator Pattern, and Clean Architecture. While not strictly necessary, this structure was chosen to demonstrate best practices in scalable, maintainable application design._
 
 ---
 
