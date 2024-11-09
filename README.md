@@ -1,4 +1,4 @@
-**.NET Developer | Full-Stack Web Developer | Problem Solver**
+**.NET Engineer**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=errkedukke&color=blue)
 
