@@ -8,7 +8,7 @@
 
 - 🌍 Based in Tbilisi, Georgia
 - 💼 Experienced in building full-stack solutions, designing robust APIs, and developing complex back-end systems using .NET Core, Angular, and MS-SQL
-- 👨‍💻 Currently a .NET Developer at EPAM Georgia
+- 👨‍💻 Currently a .NET Engineer at EPAM Georgia
 
 ---
 
@@ -27,6 +27,6 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukhadzeg/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/errkedukke)
 
 ---
